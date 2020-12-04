@@ -241,4 +241,4 @@ process
   (
   (!processInitiator) | 
   (!processResponder)
-  )	
+  )	.
